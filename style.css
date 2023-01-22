@@ -3,3 +3,18 @@ body {
     height: 100vh;
     margin: 0;
 }
+
+h1, p {
+    text-align: center;
+}
+
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+}
+label {
+    display: block;
+
+}
