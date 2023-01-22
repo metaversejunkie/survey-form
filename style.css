@@ -18,19 +18,15 @@ form {
 }
 label {
     display: block;
+    margin: 0.5rem 0;
 
 }
 select {
     display: block;
 }
 
-input, label, select {
+input, select {
     width: 100%;
-    margin: 10 0 0 0;
+    margin: 15 0 0 0;
 }
 
-
-#age {
-    width: initial;
-    
-}
