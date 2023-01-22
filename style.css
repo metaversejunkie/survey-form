@@ -7,26 +7,28 @@ body {
 }
 
 h1, p {
+    margin: 1em auto;
     text-align: center;
 }
 
 form {
     width: 60vw;
-    max-width: 500px;
+    max-width: 600px;
     min-width: 300px;
     margin: 0 auto;
 }
 label {
     display: block;
     margin: 0.5rem 0;
-
-}
-select {
-    display: block;
 }
 
 input, select {
     width: 100%;
-    margin: 15 0 0 0;
+    margin: 10 0 0 0;
 }
+
+fieldset{
+    padding: 1rem 0;
+}
+
 
